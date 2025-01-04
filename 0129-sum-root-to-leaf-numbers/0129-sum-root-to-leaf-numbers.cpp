@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<string> &s, string k){
-        if(root == NULL){return;}
-        if(root->left == NULL && root->right == NULL)s.push_back(k+=to_string(root->val));
-        k+=to_string(root->val);
-        dfs(root->left, s, k);
-        dfs(root->right, s, k);
-        return ;
+    void pathsum(TreeNode*root, int rs, int *psum){
+        if(root == NULL)return;
+        if(root->left == NULL && root->right == NULL){
+            *psum = *psum + rs * 10 + root->val;
+        }
+        pathsum(root->left, rs*10 + root->val, psum);
+        pathsum(root->right, rs*10 + root->val, psum);
+        return;
+
     }
     int sumNumbers(TreeNode* root) {
-        vector<string>s;
-        string k="";
-        dfs(root, s, k);
-        int sum=0;
-        for(int i = 0;i<s.size();i+=1){
-            sum+=stoi(s[i]);
-        }
+        int sum = 0;
+        pathsum(root, 0 ,  &sum);
         return sum;
     }
 };
