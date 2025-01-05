@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Union Find
@@ -74,4 +75,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
