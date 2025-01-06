@@ -1,5 +1,5 @@
 bool isValid(char* s) {
-    char st[1000000];
+    char st[strlen(s)];
     int top = -1;
     for(int i = 0;i<strlen(s);i++){
         char c = s[i];
