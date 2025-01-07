@@ -62,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -119,5 +121,6 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/iniyan007/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
