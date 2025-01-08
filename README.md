@@ -22,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -73,6 +74,7 @@
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
@@ -87,6 +89,7 @@
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -123,9 +126,11 @@
 | [0008-string-to-integer-atoi](https://github.com/iniyan007/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
