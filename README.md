@@ -128,9 +128,14 @@
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
+| [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
