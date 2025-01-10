@@ -5,6 +5,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/iniyan007/Leetcode_problems/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
@@ -139,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 ## Rolling Hash
 |  |
