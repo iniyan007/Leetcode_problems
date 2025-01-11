@@ -6,6 +6,7 @@
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0214-shortest-palindrome](https://github.com/iniyan007/Leetcode_problems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
