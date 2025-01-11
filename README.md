@@ -134,6 +134,7 @@
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
@@ -161,4 +162,16 @@
 |  |
 | ------- |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
+## Binary Search
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
