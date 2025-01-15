@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/iniyan007/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
@@ -150,6 +151,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
@@ -189,5 +191,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
