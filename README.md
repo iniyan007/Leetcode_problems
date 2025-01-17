@@ -135,6 +135,7 @@
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
@@ -150,6 +151,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
 ## Recursion
@@ -198,5 +200,6 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
