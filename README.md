@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
@@ -146,6 +147,7 @@
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
