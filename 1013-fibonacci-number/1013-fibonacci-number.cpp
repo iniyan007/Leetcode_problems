@@ -1,17 +1,19 @@
 class Solution {
 public:
-    int solve(int n, vector<int>&dp){
+    int solve(int n){
         if(n == 0 || n == 1)
         return n;
-        dp[0] = 0;
-        dp[1] = 1;
+        int p1 = 0;
+        int p2 = 1;
+        int c =0;
         for(int i =2;i<=n;i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            c = p1+p2;
+            p1 = p2;
+            p2 = c;
         }
-        return dp[n];
+        return p2;
     }
     int fib(int n) {
-        vector<int>dp(n+1, -1);
-        return solve(n, dp);
+        return solve(n);
     }
 };
