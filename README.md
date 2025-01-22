@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
@@ -100,6 +101,7 @@
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
@@ -220,6 +222,7 @@
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
