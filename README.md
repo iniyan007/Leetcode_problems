@@ -151,6 +151,7 @@
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/iniyan007/Leetcode_problems/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
@@ -220,6 +221,7 @@
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
