@@ -109,6 +109,7 @@
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
 ## Sorting
@@ -154,6 +155,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -205,6 +207,7 @@
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
