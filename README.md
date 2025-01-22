@@ -69,6 +69,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
@@ -222,6 +223,7 @@
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
@@ -237,4 +239,8 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
