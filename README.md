@@ -82,6 +82,7 @@
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
@@ -221,6 +222,7 @@
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
