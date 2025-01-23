@@ -92,6 +92,7 @@
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Union Find
 |  |
@@ -118,6 +119,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
 ## Sorting
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
+## Design
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
