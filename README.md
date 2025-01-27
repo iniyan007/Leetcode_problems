@@ -88,6 +88,7 @@
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 ## Divide and Conquer
@@ -207,6 +209,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
@@ -241,6 +244,7 @@
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/iniyan007/Leetcode_problems/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0639-decode-ways-ii) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
