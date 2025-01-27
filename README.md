@@ -80,6 +80,7 @@
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -237,6 +239,7 @@
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
