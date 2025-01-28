@@ -86,6 +86,7 @@
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/iniyan007/Leetcode_problems/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/iniyan007/Leetcode_problems/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
