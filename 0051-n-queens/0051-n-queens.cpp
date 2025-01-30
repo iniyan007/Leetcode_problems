@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TC (n! * O(n))
     bool valid(int r, int k, vector<string>&b, int n){
         int i = r, j= k;
         for(int x = i-1;x>=0;x--){
