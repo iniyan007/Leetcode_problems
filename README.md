@@ -79,6 +79,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/iniyan007/Leetcode_problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/iniyan007/Leetcode_problems/tree/master/0093-restore-ip-addresses) |
