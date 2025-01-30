@@ -77,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iniyan007/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/iniyan007/Leetcode_problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
