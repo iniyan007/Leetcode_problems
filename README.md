@@ -35,6 +35,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/iniyan007/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -62,6 +63,7 @@
 | [0112-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/iniyan007/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
