@@ -38,6 +38,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -67,6 +68,7 @@
 | [0207-course-schedule](https://github.com/iniyan007/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -313,8 +315,10 @@
 | ------- |
 | [0207-course-schedule](https://github.com/iniyan007/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/iniyan007/Leetcode_problems/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
