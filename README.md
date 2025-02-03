@@ -80,6 +80,7 @@
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iniyan007/Leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Union Find
@@ -142,6 +144,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
@@ -323,4 +327,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/iniyan007/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
