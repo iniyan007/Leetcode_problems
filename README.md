@@ -72,6 +72,7 @@
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
 | ------- |
