@@ -41,6 +41,7 @@
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Math
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
