@@ -159,6 +159,7 @@
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iniyan007/Leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/iniyan007/Leetcode_problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iniyan007/Leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iniyan007/Leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
