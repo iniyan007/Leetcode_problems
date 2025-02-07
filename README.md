@@ -81,6 +81,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/iniyan007/Leetcode_problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/iniyan007/Leetcode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iniyan007/Leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/iniyan007/Leetcode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/iniyan007/Leetcode_problems/tree/master/2139-detect-squares) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -149,6 +151,7 @@
 | [0221-maximal-square](https://github.com/iniyan007/Leetcode_problems/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/iniyan007/Leetcode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
