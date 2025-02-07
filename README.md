@@ -42,6 +42,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/iniyan007/Leetcode_problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/iniyan007/Leetcode_problems/tree/master/1300-critical-connections-in-a-network) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/iniyan007/Leetcode_problems/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -77,6 +78,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/iniyan007/Leetcode_problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/iniyan007/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/iniyan007/Leetcode_problems/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -123,6 +125,7 @@
 | [0435-non-overlapping-intervals](https://github.com/iniyan007/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -151,6 +154,7 @@
 | [0221-maximal-square](https://github.com/iniyan007/Leetcode_problems/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iniyan007/Leetcode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
