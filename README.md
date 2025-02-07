@@ -100,6 +100,7 @@
 | [0027-remove-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/iniyan007/Leetcode_problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/iniyan007/Leetcode_problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/iniyan007/Leetcode_problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
