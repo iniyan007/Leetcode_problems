@@ -90,6 +90,7 @@
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
@@ -118,6 +119,7 @@
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/iniyan007/Leetcode_problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/iniyan007/Leetcode_problems/tree/master/0221-maximal-square) |
@@ -349,6 +351,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 ## Design
 |  |
