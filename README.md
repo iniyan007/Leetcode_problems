@@ -44,6 +44,7 @@
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/iniyan007/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/iniyan007/Leetcode_problems/tree/master/1300-critical-connections-in-a-network) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/iniyan007/Leetcode_problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -80,6 +81,7 @@
 | [0871-keys-and-rooms](https://github.com/iniyan007/Leetcode_problems/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iniyan007/Leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/iniyan007/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/iniyan007/Leetcode_problems/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/iniyan007/Leetcode_problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iniyan007/Leetcode_problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -129,6 +131,7 @@
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/iniyan007/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -143,6 +146,7 @@
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iniyan007/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/iniyan007/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +162,7 @@
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/iniyan007/Leetcode_problems/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/iniyan007/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iniyan007/Leetcode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
