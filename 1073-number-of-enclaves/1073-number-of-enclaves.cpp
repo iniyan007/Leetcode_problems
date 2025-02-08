@@ -1,41 +1,29 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& a, int i, int j) {
-        if (i < 0 || j < 0 || i == a.size() || j == a[i].size() || a[i][j] != 1) return;
-        a[i][j] = 0;
-        dfs(a, i + 1, j);
-        dfs(a, i - 1, j);
-        dfs(a, i, j + 1);
-        dfs(a, i, j - 1);
+    void dfs(vector<vector<int>>&grid, int i , int j){
+        if(i <0 || j<0 || i == grid.size() || j == grid[0].size() || grid[i][j] == 0)return;
+        grid[i][j] = 0;
+        dfs(grid, i+1, j);
+        dfs(grid, i, j+1);
+        dfs(grid, i-1, j);
+        dfs(grid, i, j-1);
     }
-
-    int numEnclaves(vector<vector<int>>& a) {
-        int n = a.size(), m = a[0].size();
-
-        // To make all enclaves connected to edges visited
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = 0; j < m; j++)
-            {
-                if(i == 0 || j == 0 || i == n-1 || j == m-1)
-                {
-                    if(a[i][j] == 1)
-                    dfs(a,i,j);
+    int numEnclaves(vector<vector<int>>& grid) {
+        int res = 0;
+        for(int i = 0; i<grid.size();i++){
+            for(int j =0; j<grid[i].size();j++){
+                if(i == 0 || j == 0 || i ==grid.size()-1 || j == grid[0].size()-1){
+                    if(grid[i][j] == 1){
+                        dfs(grid, i, j);
+                    }
                 }
             }
         }
-
-        // To calculate number of unvisited enclaves
-        int cnt = 0;
-        for(int i = 0; i < n; i++)
-        {
-            for(int j = 0; j < m; j++)
-            {
-                if(a[i][j] == 1)
-                cnt++;
+        for(int i = 0; i<grid.size();i++){
+            for(int j = 0; j<grid[0].size();j++){
+                if(grid[i][j] == 1)res++;
             }
         }
-
-        return cnt;
+        return res;
     }
 };
