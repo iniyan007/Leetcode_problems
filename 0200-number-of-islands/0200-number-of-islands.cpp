@@ -1,24 +1,20 @@
 class Solution {
 public:
-    void isIsland(vector<vector<char>>& grid, int i, int j, int m, int n){
-        if (i<0 || j<0 || i==m || j==n || grid[i][j]=='0') return;
-        grid[i][j]='0';
-        isIsland(grid,i+1,j,m,n);
-        isIsland(grid,i,j+1,m,n);
-        isIsland(grid,i-1,j,m,n);
-        isIsland(grid,i,j-1,m,n);
-        return;
+    void isiland(vector<vector<char>>&g, int i, int j){
+        if(i<0||j<0||i==g.size()||j==g[0].size()||g[i][j] == '0')return;
+        g[i][j] = '0';
+        isiland(g, i+1, j);
+        isiland(g, i, j+1);
+        isiland(g, i-1, j);
+        isiland(g, i, j-1);
     }
-    
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int res=0;
-        for (int i=0; i<m; i++){
-            for (int j=0; j<n; j++){
-                if (grid[i][j]=='1'){
+        int res = 0;
+        for(int i = 0; i<grid.size();i++){
+            for(int j = 0 ; j<grid[0].size();j++){
+                if(grid[i][j] == '1'){
                     res++;
-                    isIsland(grid,i,j,m,n);
+                    isiland(grid, i, j);
                 }
             }
         }
