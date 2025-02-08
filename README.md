@@ -117,6 +117,7 @@
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iniyan007/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/iniyan007/Leetcode_problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
@@ -315,6 +316,7 @@
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iniyan007/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/iniyan007/Leetcode_problems/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/iniyan007/Leetcode_problems/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/iniyan007/Leetcode_problems/tree/master/0376-wiggle-subsequence) |
