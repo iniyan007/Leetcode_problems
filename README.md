@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0886-score-of-parentheses) |
@@ -106,6 +107,7 @@
 | [0027-remove-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/iniyan007/Leetcode_problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/iniyan007/Leetcode_problems/tree/master/0051-n-queens) |
@@ -313,6 +315,7 @@
 | [0005-longest-palindromic-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
@@ -356,6 +359,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
@@ -388,4 +392,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/iniyan007/Leetcode_problems/tree/master/1300-critical-connections-in-a-network) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
