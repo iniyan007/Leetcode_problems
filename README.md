@@ -116,6 +116,7 @@
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 ## String
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0022-generate-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/iniyan007/Leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
