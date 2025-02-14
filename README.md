@@ -5,6 +5,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iniyan007/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
@@ -120,6 +121,7 @@
 | [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iniyan007/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
@@ -403,5 +405,6 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iniyan007/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
