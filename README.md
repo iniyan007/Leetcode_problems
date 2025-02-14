@@ -5,6 +5,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iniyan007/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/iniyan007/Leetcode_problems/tree/master/0886-score-of-parentheses) |
@@ -119,6 +120,7 @@
 | [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
@@ -160,6 +162,7 @@
 | [0063-unique-paths-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/iniyan007/Leetcode_problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/iniyan007/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/iniyan007/Leetcode_problems/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/iniyan007/Leetcode_problems/tree/master/0695-max-area-of-island) |
@@ -324,6 +327,7 @@
 | [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/iniyan007/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0120-triangle) |
@@ -399,4 +403,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
