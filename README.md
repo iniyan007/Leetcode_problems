@@ -409,4 +409,8 @@
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iniyan007/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iniyan007/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/iniyan007/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
