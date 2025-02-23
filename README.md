@@ -115,6 +115,7 @@
 | [0001-two-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/iniyan007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -310,6 +311,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iniyan007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [1321-get-equal-substrings-within-budget](https://github.com/iniyan007/Leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
