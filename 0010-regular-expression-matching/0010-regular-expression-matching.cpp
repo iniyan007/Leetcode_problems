@@ -23,7 +23,6 @@ public:
     }
 
     bool isMatch(string s, string p) {
-        
         dp.resize(s.length()+1, vector<int>(p.length() +1, -1));
         return solve(s, p, 0, 0);
     }
