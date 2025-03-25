@@ -121,6 +121,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/iniyan007/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/iniyan007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/iniyan007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -173,6 +174,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/iniyan007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/iniyan007/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
@@ -195,6 +197,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/iniyan007/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/iniyan007/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iniyan007/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/iniyan007/Leetcode_problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iniyan007/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/iniyan007/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/iniyan007/Leetcode_problems/tree/master/0076-minimum-window-substring) |
