@@ -109,6 +109,7 @@
 | [0062-unique-paths](https://github.com/iniyan007/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/iniyan007/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/iniyan007/Leetcode_problems/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
@@ -240,6 +241,7 @@
 | [0054-spiral-matrix](https://github.com/iniyan007/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/iniyan007/Leetcode_problems/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/iniyan007/Leetcode_problems/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Biconnected Component
 |  |
