@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iniyan007/Leetcode_problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/iniyan007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -392,6 +393,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/iniyan007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/iniyan007/Leetcode_problems/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
