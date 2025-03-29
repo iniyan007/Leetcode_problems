@@ -113,6 +113,7 @@
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
+| [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iniyan007/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -381,6 +382,7 @@
 | [0639-decode-ways-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0639-decode-ways-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/iniyan007/Leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/iniyan007/Leetcode_problems/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
@@ -456,4 +458,12 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/iniyan007/Leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
