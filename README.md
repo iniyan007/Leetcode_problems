@@ -118,6 +118,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/iniyan007/Leetcode_problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/iniyan007/Leetcode_problems/tree/master/2383-add-two-integers) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/iniyan007/Leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Array
 |  |
 | ------- |
@@ -451,4 +452,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iniyan007/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/iniyan007/Leetcode_problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
