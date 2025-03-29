@@ -117,6 +117,7 @@
 | [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iniyan007/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1806-count-of-matches-in-tournament](https://github.com/iniyan007/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/iniyan007/Leetcode_problems/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/iniyan007/Leetcode_problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/iniyan007/Leetcode_problems/tree/master/2383-add-two-integers) |
@@ -250,6 +251,7 @@
 | [0059-spiral-matrix-ii](https://github.com/iniyan007/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/iniyan007/Leetcode_problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/iniyan007/Leetcode_problems/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/iniyan007/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
