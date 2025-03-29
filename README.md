@@ -110,6 +110,7 @@
 | [0168-excel-sheet-column-title](https://github.com/iniyan007/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/iniyan007/Leetcode_problems/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0292-nim-game) |
 | [0504-base-7](https://github.com/iniyan007/Leetcode_problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/iniyan007/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/iniyan007/Leetcode_problems/tree/master/1070-convert-to-base-2) |
@@ -461,9 +462,11 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iniyan007/Leetcode_problems/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/iniyan007/Leetcode_problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
