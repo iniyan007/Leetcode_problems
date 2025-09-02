@@ -297,6 +297,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iniyan007/Leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/iniyan007/Leetcode_problems/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iniyan007/Leetcode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1894-merge-strings-alternately](https://github.com/iniyan007/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iniyan007/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/iniyan007/Leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/iniyan007/Leetcode_problems/tree/master/2226-rings-and-rods) |
@@ -431,6 +432,7 @@
 | [0088-merge-sorted-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/iniyan007/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1129-longest-string-chain](https://github.com/iniyan007/Leetcode_problems/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/iniyan007/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
