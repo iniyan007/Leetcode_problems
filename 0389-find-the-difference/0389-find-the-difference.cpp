@@ -12,9 +12,6 @@ public:
                 m.erase(c);
             }
         }
-        for(auto z: m){
-            x = z.first;
-        }
-        return x;
+        return m.begin()->first;
     }
 };
